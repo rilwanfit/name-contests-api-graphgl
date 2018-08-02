@@ -1,0 +1,5 @@
+# PHP Storm
+.idea
+
+# Mac specific
+.DS_Store
